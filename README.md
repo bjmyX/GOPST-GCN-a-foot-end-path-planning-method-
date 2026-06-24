@@ -1,2 +1,2 @@
 # GOPST-GCN-a-foot-end-path-planning-method-
-The code will be open-source after paper been published
+The core of GOPST-GCN is published in python file of main_GCN_upload.py.
